@@ -1,0 +1,39 @@
+body{
+  background: #191919 !important;
+}
+
+.heading{
+  padding-top: 200px;
+  font-family: 'Anton', sans-serif;
+  color: white;
+}
+
+#header{
+  font-family: 'Anton', sans-serif;
+  font-size: 50px;
+  text-align: left;
+}
+#lower, #para{
+  font-style: normal;
+  font-family: sans-serif !important;
+  color: #BDC4BD;
+}
+.btn.btn-success{
+  font-style: normal;
+  font-family: sans-serif !important;
+  color: #08fdd8;
+  border-color: #08fdd8;
+  margin: 10px 0px;
+  background: #191919;
+}
+
+.body{
+  margin-left: 10px !important;
+}
+
+#about{
+  font-family: 'Anton', sans-serif;
+  font-size: 80px;
+  text-align: left;
+  color: #08fdd8;
+}
